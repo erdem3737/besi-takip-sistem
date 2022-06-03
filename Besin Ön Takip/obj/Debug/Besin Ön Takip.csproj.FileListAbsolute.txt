@@ -1,0 +1,11 @@
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\bin\Debug\Besin Ön Takip.exe.config
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\obj\Debug\Besin Ön Takip.csprojResolveAssemblyReference.cache
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\obj\Debug\Besin_Ön_Takip.Form1.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\obj\Debug\Besin_Ön_Takip.Form2.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\obj\Debug\Besin_Ön_Takip.Properties.Resources.resources
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\obj\Debug\Besin Ön Takip.csproj.GenerateResource.Cache
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\bin\Debug\Besin Ön Takip.exe
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\bin\Debug\Besin Ön Takip.pdb
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\obj\Debug\Besin Ön Takip.exe
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\obj\Debug\Besin Ön Takip.pdb
+C:\Users\MİTHAT BOYNER\Documents\Visual Studio 2013\Projects\Besin Ön Takip\Besin Ön Takip\bin\Debug\Properties\bilgi.mdb
